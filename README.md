@@ -1,5 +1,5 @@
 ![Demo](https://github.com/anujsahani01/Yoga-Pose-Detector/assets/83875986/e46b4697-1cd2-4510-9be8-622157035d92)
-# Yoga Pose Detector
+# Human Pose Detector
 
 #### Used MoveNet(movent thunder) for Pose and Skeleton detection and then using a simple Deep Learnig Model for Classification Purpose
 
